@@ -1,0 +1,58 @@
+Found 3 pods, using pod/my-server-7646996b8b-z27cl
+Starting up on 0.0.0.0 port 30152
+
+Waiting for a connection
+Connection from ('10.244.0.18', 43804)
+Received b'This is the message. It will be repeated.'
+Sending data back to the client
+Received b''
+No data from ('10.244.0.18', 43804)
+
+Waiting for a connection
+Connection from ('10.244.0.17', 45238)
+Received b'This is the message. It will be repeated.'
+Sending data back to the client
+Received b''
+No data from ('10.244.0.17', 45238)
+
+Waiting for a connection
+Connection from ('10.244.0.16', 38394)
+Received b'This is the message. It will be repeated.'
+Sending data back to the client
+Received b''
+No data from ('10.244.0.16', 38394)
+
+Waiting for a connection
+Connection from ('10.244.0.18', 35402)
+Received b'This is the message. It will be repeated.'
+Sending data back to the client
+Received b''
+No data from ('10.244.0.18', 35402)
+
+Waiting for a connection
+Connection from ('10.244.0.18', 36320)
+Received b'This is the message. It will be repeated.'
+Sending data back to the client
+Received b''
+No data from ('10.244.0.18', 36320)
+
+Waiting for a connection
+Connection from ('10.244.0.16', 42296)
+Received b'This is the message. It will be repeated.'
+Sending data back to the client
+Received b''
+No data from ('10.244.0.16', 42296)
+
+Waiting for a connection
+Connection from ('10.244.0.17', 54580)
+Received b'This is the message. It will be repeated.'
+Sending data back to the client
+Received b''
+No data from ('10.244.0.17', 54580)
+
+Waiting for a connection
+Connection from ('10.244.0.16', 33910)
+Received b'This is the message. It will be repeated.'
+Sending data back to the client
+Received b''
+No data from ('10.244.0.16', 33910)

@@ -1,0 +1,33 @@
+docker login registry.gitlab.com
+  190  docker build -t registry.gitlab.com/uthayasurian98/my-client .
+  191  docker push registry.gitlab.com/uthayasurian98/my-client
+  192  docker login registry.gitlab.com
+  193  docker logout registry.gitlab.com
+  194  docker login registry.gitlab.com
+  195  docker imagtes
+  196  docker images
+  197  docker rmi registry.gitlab.com/uthayasurian98/my-client
+  198  docker build -t registry.gitlab.com/uthayasurian98/my-client .
+  199  docker push registry.gitlab.com/uthayasurian98/my-client
+  200  docker logout registry.gitlab.com
+  201  docker login registry.gitlab.com
+  202  docker rmi registry.gitlab.com/uthayasurian98/my-client
+  203  docker build -t registry.gitlab.com/uthayasurian98/my-client .
+  204  docker push registry.gitlab.com/uthayasurian98/my-client
+  205  docker images
+  206  kubectl create secret docker-registry gitlab-registry-secret-client --docker-server=registry.gitlab.com --docker-username=uthayasurian98@gmail.com --docker-password=glpat-SAtETuCyrjS98tmabFP7 --docker-email=uthayasurian98@gmail.com
+  207  kubectl apply -f deployment.yml
+  208  watch kubectl get pods
+  209  kubectl get logs deployments.apps/server-deployment
+  210  kubectl get logs deployments.apps/my-server
+  211  kubectl get deplyoments
+  212  kubectl get deplyoment
+  213  kubectl get -f logs deployments.apps/my-server
+  214  kubectl get pods
+  215  kubectl get -f logs deployments.apps/my-server
+  216  kubectl get -f logs deployment.apps/my-server
+  217  kubectl get -f log deployment.apps/my-server
+  218  kubectl logs -f get deployment.apps/my-server
+  219  kubectl logs -f \deployment.apps/my-server
+  220  kubectl logs -f get deployment.apps/my-client
+  221  kubectl logs -f deployment.apps/my-client

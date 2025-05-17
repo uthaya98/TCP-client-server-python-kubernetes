@@ -1,0 +1,372 @@
+Found 3 pods, using pod/my-client-779fd8979d-2rzj2
+Connection #1
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #2
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #3
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #4
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #5
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #6
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #7
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #8
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #9
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #10
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #11
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #12
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #13
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #14
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #15
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #16
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #17
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #18
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #19
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #20
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #21
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #22
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #23
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #24
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #25
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #26
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #27
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #28
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #29
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #30
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #31
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #32
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #33
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #34
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #35
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #36
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #37
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #38
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #39
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #40
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #41
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #42
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #43
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #44
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #45
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #46
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #47
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #48
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #49
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #50
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #51
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #52
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #53
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #54
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #55
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #56
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #57
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #58
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #59
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #60
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #61
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
+
+Connection #62
+Connecting to my-server port 30152
+Sending:  b'This is the message. It will be repeated.'
+Received: b'This is the message. It will be repeated.'
+Closing socket
